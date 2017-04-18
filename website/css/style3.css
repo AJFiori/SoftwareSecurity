@@ -1,0 +1,95 @@
+body{
+
+           /* background-image: url(image/BG2_1.jpg);*/
+            background-size:cover;
+            background-repeat: no-repeat;
+            background-color: #66afe9;
+
+}
+
+.AM{
+    color: #31b0d5;
+}
+
+#centerLogin{
+
+    background-color: lightgrey;
+    width: 950px;
+    padding: 25px;
+    margin: 25px;
+    margin-top:5%;
+    opacity: 0.9;
+}
+
+.cover-heading{color:black;}
+
+.LogIn{
+    color: #1b6d85;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+.SU{
+    color: #31b0d5;
+    font-size: 25px;  
+}
+
+.SUN{
+    color: #31b0d5;
+    font-size: 20px;
+}
+
+.WTOS{
+    color: black;
+    font-size: 20px;
+}
+
+.row{
+    color: black;
+    font-size: 20px;
+}
+
+.ANI{
+    color: #31b0d5;
+    font-size: 20px;
+}
+
+.AddrBook{
+    color: #31b0d5;
+    font-size: 20px;
+}
+
+.Cover{
+    color: #31b0d5;
+    font-size: 20px;
+}
+
+.warning{
+    color: #31b0d5;
+    font-size: 20px;
+}
+
+.View{
+    color: #31b0d5;
+    font-size: 20px;
+}
+
+.Update{
+    color: #31b0d5;
+    font-size: 20px;
+}
+.Error{
+    color: #ff0000;
+    font-size: 20px;
+}
+
+.Error2{
+    color: #ff0000;
+    font-size: 15px;
+}
+
+.Error3{
+    color: #ff0000;
+    font-size: 15px;
+}
+
